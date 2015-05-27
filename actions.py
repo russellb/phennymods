@@ -86,3 +86,7 @@ def notbad(phenny, input):
     phenny.say('                          M.     .            .  . ..')
     phenny.say('                       .Z.   . M~ ..         ,   .    M')
 notbad.commands = ['notbad']
+
+def dundundun(phenny, input):
+    phenny.say('https://www.youtube.com/watch?v=cphNpqKpKc4')
+dundundun.commands = ['dundundun']
