@@ -237,3 +237,8 @@ halibut.commands = ['halibut']
 def pabelanger(phenny, input):
     phenny.say('http://media.giphy.com/media/R4mn3MfNRmlCU/200.gif')
 pabelanger.commands = ['pabelanger', 'paul', 'woahdance']
+
+def dundundun(phenny, input):
+    phenny.say('https://www.youtube.com/watch?v=cphNpqKpKc4')
+dundundun.commands = ['dundundun']
+>>>>>>> Add dundundun action.
